@@ -10,4 +10,4 @@ The CalcBrain.swift file contains various functions that help operate the calcul
 - Negate
 - Adding numbers to the expression
 - Adding operators to the expression
-- Equal to solve the the expression
+- Equal to solve the expression
