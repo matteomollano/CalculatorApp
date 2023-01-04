@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EA62AD8E2805EA8200BE67A0 /* CalcBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA62AD8D2805EA8200BE67A0 /* CalcBrain.swift */; };
 		EAC5AE48280511D200C94DE3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAC5AE47280511D200C94DE3 /* AppDelegate.swift */; };
 		EAC5AE4A280511D200C94DE3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAC5AE49280511D200C94DE3 /* SceneDelegate.swift */; };
 		EAC5AE4C280511D200C94DE3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAC5AE4B280511D200C94DE3 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EA62AD8D2805EA8200BE67A0 /* CalcBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalcBrain.swift; sourceTree = "<group>"; };
 		EAC5AE44280511D200C94DE3 /* CalculatorModel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalculatorModel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAC5AE47280511D200C94DE3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EAC5AE49280511D200C94DE3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				EAC5AE49280511D200C94DE3 /* SceneDelegate.swift */,
 				EAC5AE4B280511D200C94DE3 /* ViewController.swift */,
 				EAC5AE4D280511D200C94DE3 /* Main.storyboard */,
+				EA62AD8D2805EA8200BE67A0 /* CalcBrain.swift */,
 				EAC5AE50280511D400C94DE3 /* Assets.xcassets */,
 				EAC5AE52280511D400C94DE3 /* LaunchScreen.storyboard */,
 				EAC5AE55280511D400C94DE3 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EAC5AE4C280511D200C94DE3 /* ViewController.swift in Sources */,
+				EA62AD8E2805EA8200BE67A0 /* CalcBrain.swift in Sources */,
 				EAC5AE48280511D200C94DE3 /* AppDelegate.swift in Sources */,
 				EAC5AE4A280511D200C94DE3 /* SceneDelegate.swift in Sources */,
 			);
